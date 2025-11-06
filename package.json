@@ -36,7 +36,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/ws-chat-sdk.git"
+    "url": "git+https://github.com/robilprogramer/ws-chat-sdk.git"
   },
   "peerDependencies": {
     "react": "^18.0.0",
