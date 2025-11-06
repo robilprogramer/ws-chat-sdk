@@ -224,8 +224,8 @@ Contributions are welcome! Please follow these steps:
 ## 📞 Support
 
 For issues and questions:
-- 🐛 [Report bugs](https://github.com/your-repo/issues)
-- 💬 [Discussions](https://github.com/your-repo/discussions)
+- 🐛 [Report bugs](https://github.com/robilprogramer/ws-chat-sdk/issues)
+- 💬 [Discussions](https://github.com/robilprogramer/ws-chat-sdk/discussions)
 - 📧 Email: robilputra19@gmail.com
 
 ## 🗺️ Roadmap
