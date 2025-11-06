@@ -250,5 +250,5 @@ For issues and questions:
 
 Made with ❤️ by Intelsysdata
 
-**Version:** 1.1.5  
+**Version:** 1.1.6  
 **Last Updated:** November 2025
