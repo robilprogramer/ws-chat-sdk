@@ -1,6 +1,6 @@
 {
   "name": "ws-chat-sdk",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "type": "module",
   "description": "React chat widget SDK for restaurant customer service with AI and human CS support - Optimized for React 18+",
   "main": "dist/index.js",
