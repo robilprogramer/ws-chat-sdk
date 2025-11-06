@@ -254,5 +254,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by Intelsysdata
 
-**Version:** 1.0.0  
+**Version:** 1.1.5  
 **Last Updated:** November 2025
