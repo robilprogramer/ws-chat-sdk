@@ -1,0 +1,10 @@
+src/
+.github/
+*.log
+*.md
+!README.md
+tsconfig.json
+rollup.config.js
+tailwind.config.js
+postcss.config.js
+node_modules/
